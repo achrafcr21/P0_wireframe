@@ -6,11 +6,24 @@
 
 # Part Victor
 
+# Pàgina d'Inici
+![Wireframe de pagina d'inici](<Imatges/inicio_web.jpg>)
+Aquest wireframe té el header amb les connexions a les diferents pagines de la botiga, el logotip i dos botons per a l'inici de sessió i un botó de la cistella.
+Té una secció de la presentació de la botiga amb imatges i una petit text descrivint la botiga. Una secció de productes destacats amb les seves fotos i descripcions.
 
+# Catàleg dels producte
+![Wireframe del catàleg de la tenda](<Imatges/catalogo_web.jpg>)
+Aquest wireframe és del catàleg de productes on cada producte té la seva foto, preu, nom i un botó dper comprar i un altre d'afegir-lo a la cistella. Té una secció per filtrar els productes per preu, marca i tipus.
 
+# Detalls del producte
+![Wireframe dels detalls de cada producte](<Imatges/producto_web.jpg>)
+Aquest wireframe és del producte seleccionat a la pàgina del catàleg, cada producte tindrà les seves fotos, nom, preu diferents. Té un botó per comprar i un altre per afegir a la cistella, també té una petita secció on poder escollir la quantitat de vegades que vols comprar el producte. A sota hi ha una secció on hi haurà la descripció del producte i especificacions tècniques.
+També hi ha una secció de ressenyes dels usuaris sobre el producte.
 
-
-
+# Autenticació i Registre d'Usuaris
+![Wireframe iniciar sesio, registrar usuari i recuperar contrasenya](<Imatges/autenticacio_usuari_web.jpg>)
+Aquest wireframe té una secció on hi ha un botó per iniciar sessió emplenant els camps de correu electrònic i contrasenya. A la dreta hi ha la secció per registrar un compte, on hi ha un formulari on has d'omplir els camps de nom, cognoms, correu electrònic i contrasenya, hi ha un camp afegit per confirmar la contrasenya posada i un botó per registrar les dades de la nova compte.
+A sota hi ha la secció per recuperar la contrasenya en cas d'haver-la oblidat, on has de posar el correu electrònic del compte que vols restaurar la contrasenya ia sota hi ha un botó que enviarà un correu electrònic per restablir la contrasenya
 
 # Tarea Achraf Chakir
 
