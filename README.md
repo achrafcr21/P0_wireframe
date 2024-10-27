@@ -41,3 +41,18 @@ Aquest wireframe mostra la pàgina de finalització de la compra (checkout). El 
 Aquest wireframe representa la pàgina del blog i notícies de la botiga. A la part superior hi ha el header, on s'inclou el menú principal de navegació. A la part central es mostren diferents articles (Productes nous de la botiga) cadascun amb una imatge, un títol i un resum,  Notícies sobre guitarres, també inclou una secció per mostrar feches dels proxims events importants relacionats amb la m´sica i guitarres, A la part inferior de la pàgina hi ha el footer.
 
 
+# Parte de Kimberly 
+PAGINA DE INICIO Y CATALOGO DE PRODUCTO 
+![alt text](fm_dam1-1.jpg)
+
+DETALLES DEL PRODUCTO
+![alt text](fm_dam3.jpg)
+
+CANASTA Y CHECKOUT 
+![alt text](fm_dam4.jpg)
+
+AUTENTICACIÓN Y REGISTRO
+![alt text](fm_dam5.jpg)
+
+BLOG Y NOTICIAS
+![alt text](fm_dam6.jpg)
