@@ -43,16 +43,20 @@ Aquest wireframe representa la pàgina del blog i notícies de la botiga. A la p
 
 # Parte de Kimberly 
 PAGINA DE INICIO Y CATALOGO DE PRODUCTO 
-![alt text](fm_dam1-1.jpg)
+![fm_dam1](https://github.com/user-attachments/assets/d5637f6b-9a88-494a-bf3b-b641ec49e41e)
+
 
 DETALLES DEL PRODUCTO
-![alt text](fm_dam3.jpg)
+![fm_dam3](https://github.com/user-attachments/assets/b14c6c65-fc86-4c6a-91a6-03c8649ccde6)
+
 
 CANASTA Y CHECKOUT 
-![alt text](fm_dam4.jpg)
+![fm_dam4](https://github.com/user-attachments/assets/887b2650-bec1-487e-a141-488072b1c5d4)
+
 
 AUTENTICACIÓN Y REGISTRO
-![alt text](fm_dam5.jpg)
+![fm_dam5](https://github.com/user-attachments/assets/34542c6f-1471-4add-bc70-7fce3e943cc6)
+
 
 BLOG Y NOTICIAS
-![alt text](fm_dam6.jpg)
+![fm_dam6](https://github.com/user-attachments/assets/23e0e53d-ac16-405f-a4f8-6dfa9274576c)
